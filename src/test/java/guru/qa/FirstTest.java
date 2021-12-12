@@ -7,6 +7,5 @@ public class FirstTest {
 
     @Test
     void firstTest() {
-        Assertions.assertTrue(condition:true);
     }
 }
