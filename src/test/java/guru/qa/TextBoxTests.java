@@ -20,7 +20,7 @@ public class TextBoxTests {
         open("https://demoqa.com/text-box");
         $("#userName").setValue("My name");
         $("#userEmail").setValue("test@test.ru");
-        $("#currentAddress").setValue("Address1 address");
+        $("#currentAddress").setValue("Address1");
         $("#permanentAddress").setValue("Address2");
         $("#submit").click();
 
